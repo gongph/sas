@@ -1,0 +1,62 @@
+.content-header > .breadcrumb {
+  float: left;
+  background: transparent;
+  padding: 7px 5px;
+  position: initial;
+  font-size: inherit;
+}
+
+.box-header .title {
+  font-size: 24px;
+}
+
+.box-header .detail {
+  padding: 5px 15px;
+}
+
+.box-body .btn {
+  text-align: left;
+}
+
+.box-body .btn > .text-light-blue {
+  padding-right: 5px;
+}
+
+.filter {
+	padding: 7px;
+}
+
+.filter > i {
+  padding-right: 5px;
+}
+
+.filter.actions {
+	text-align: right;
+}
+
+.size-20 {
+	font-size: 20px;
+}
+
+.input-group .form-control.border-radius-15 {
+	border-radius: 15px;
+}
+
+.form-control-feedback {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 2;
+  display: block;
+  width: 34px;
+  height: 34px;
+  line-height: 34px;
+  text-align: center;
+  pointer-events: none;
+  cursor: pointer;
+  color: #ccc;
+}
+
+.no-task-selected {
+	text-align: center;
+}
